@@ -5,7 +5,7 @@ The challenge was to recreate the webpage as presented in the mp4 file provided 
 
 ### FrontLoops Reference Screenshot
 
-![Front Loops Challenge 2 Reference Screenshot](Loop 1 - Step 2.png)
+![Front Loops Challenge 2 Reference Screenshot](frontloops-reference-screenshot.png)
 
 ### Demo
 
