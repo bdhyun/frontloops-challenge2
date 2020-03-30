@@ -1,4 +1,4 @@
-# FrontLoops Challenge 2
+# FrontLoops Challenge 2 - HTML/CSS Only
 ## Loop 1 - Step 2
 
 The challenge was to recreate the webpage as presented in the mp4 file provided by FrontLoops.
